@@ -29,8 +29,3 @@ Don't worry, it isn't as hard as you might think! Just follow the instructions [
 ## Theming
 Don't like the default look of LibreSprite? Don't panic, you can download from the LibreSprite [resources](https://libresprite.github.io/#!/resources) repo. 
 
-## License
-This program is distributed under the [GNU General Public License Version 2](LICENSE.txt).
-
-## Credits
-An ***enormous*** thank you to the original developers of [Aseprite](https://www.aseprite.org), without them and their original licensing this project wouldn’t exist. Additional shout-outs are given in the [list of contributors](CONTRIBUTORS.md). If you have submitted work to LibreSprite and would like to have your name on the list, please create a pull request or get in touch and we’ll make it happen.
